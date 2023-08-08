@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+    <title>Hello, World!</title>
+</head>
+<body>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font: 30pt Arial;
+        }
+        h1{
+            color: red;
+        }
+        button{
+            font: 30pt Arial;
+            background-color: #FF00C5;
+            color: white;
+        }
+    </style>
+    <h1>
+        Olá, mundo!🌎
+    </h1>
+    <p>
+        quem tiver enteressado em da os primeiros passos no mundo 🌎  da programação basta clicar logo no botão abaixo, vc será redirecionado para ter seus primeiros conteúdos<a href="https://youtu.be/5w5le70keqs"><button>clik aqui</button></a> 🤓
+    </p>
+    <img src="https://as1.ftcdn.net/v2/jpg/05/56/29/10/1000_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.jpg" height="900" white="900"><br>
+    <ins><em>páginatotalmente segura!</em></ins><p><img src="IMAGENS/IMG_20230804_134837_661.jpg"></p>
+</body>
+</html>
